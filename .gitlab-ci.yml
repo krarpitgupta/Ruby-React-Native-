@@ -1,0 +1,97 @@
+build:on-schedule:
+  stage: build
+  only:
+    - schedules
+  script:
+    - make build-runner-image
+  allow_failure: false
+
+test-1:on-schedule:
+  stage: test
+  script:
+    - make test platform=$PLATFORM SAUCELAB_USER=$SAUCELAB_USER SAUCELAB_ACCESSKEY=$SAUCELAB_ACCESSKEY TAGS=$TAGS_1 SAUCE_CONNECT_PATH=$SAUCE_CONNECT_PATH TEST_RAIL_FLAG=$TEST_RAIL_FLAG HTTP_PROXY=$HTTP_PROXY HTTPS_PROXY=$HTTPS_PROXY TEST_RAIL_RUN_ID=$TEST_RAIL_RUN_ID_1
+  artifacts:
+    untracked: true
+  only:
+    - schedules
+  
+test-2:on-schedule:
+  stage: test
+  script:
+    - make test platform=$PLATFORM SAUCELAB_USER=$SAUCELAB_USER SAUCELAB_ACCESSKEY=$SAUCELAB_ACCESSKEY TAGS=$TAGS_2 SAUCE_CONNECT_PATH=$SAUCE_CONNECT_PATH TEST_RAIL_FLAG=$TEST_RAIL_FLAG HTTP_PROXY=$HTTP_PROXY HTTPS_PROXY=$HTTPS_PROXY TEST_RAIL_RUN_ID=$TEST_RAIL_RUN_ID_2
+  artifacts:
+    untracked: true
+  only:
+    - schedules
+
+test-3:on-schedule:
+  stage: test
+  script:
+    - make test platform=$PLATFORM SAUCELAB_USER=$SAUCELAB_USER SAUCELAB_ACCESSKEY=$SAUCELAB_ACCESSKEY TAGS=$TAGS_3 SAUCE_CONNECT_PATH=$SAUCE_CONNECT_PATH TEST_RAIL_FLAG=$TEST_RAIL_FLAG HTTP_PROXY=$HTTP_PROXY HTTPS_PROXY=$HTTPS_PROXY TEST_RAIL_RUN_ID=$TEST_RAIL_RUN_ID_3
+  artifacts:
+    untracked: true
+  only:
+    - schedules
+  
+test-4:on-schedule:
+  stage: test
+  script:
+    - make test platform=$PLATFORM SAUCELAB_USER=$SAUCELAB_USER SAUCELAB_ACCESSKEY=$SAUCELAB_ACCESSKEY TAGS=$TAGS_4 SAUCE_CONNECT_PATH=$SAUCE_CONNECT_PATH TEST_RAIL_FLAG=$TEST_RAIL_FLAG HTTP_PROXY=$HTTP_PROXY HTTPS_PROXY=$HTTPS_PROXY TEST_RAIL_RUN_ID=$TEST_RAIL_RUN_ID_4
+  artifacts:
+    untracked: true
+  only:
+    - schedules
+
+test-5:on-schedule:
+  stage: test
+  script:
+    - make test platform=$PLATFORM SAUCELAB_USER=$SAUCELAB_USER SAUCELAB_ACCESSKEY=$SAUCELAB_ACCESSKEY TAGS=$TAGS_5 SAUCE_CONNECT_PATH=$SAUCE_CONNECT_PATH TEST_RAIL_FLAG=$TEST_RAIL_FLAG HTTP_PROXY=$HTTP_PROXY HTTPS_PROXY=$HTTPS_PROXY TEST_RAIL_RUN_ID=$TEST_RAIL_RUN_ID_5
+  artifacts:
+    untracked: true
+  only:
+    - schedules
+  
+test-6:on-schedule:
+  stage: test
+  script:
+    - make test platform=$PLATFORM SAUCELAB_USER=$SAUCELAB_USER SAUCELAB_ACCESSKEY=$SAUCELAB_ACCESSKEY TAGS=$TAGS_6 SAUCE_CONNECT_PATH=$SAUCE_CONNECT_PATH TEST_RAIL_FLAG=$TEST_RAIL_FLAG HTTP_PROXY=$HTTP_PROXY HTTPS_PROXY=$HTTPS_PROXY TEST_RAIL_RUN_ID=$TEST_RAIL_RUN_ID_6
+  artifacts:
+    untracked: true
+  only:
+    - schedules
+
+test-7:on-schedule:
+  stage: test
+  script:
+    - make test platform=$PLATFORM SAUCELAB_USER=$SAUCELAB_USER SAUCELAB_ACCESSKEY=$SAUCELAB_ACCESSKEY TAGS=$TAGS_7 SAUCE_CONNECT_PATH=$SAUCE_CONNECT_PATH TEST_RAIL_FLAG=$TEST_RAIL_FLAG HTTP_PROXY=$HTTP_PROXY HTTPS_PROXY=$HTTPS_PROXY TEST_RAIL_RUN_ID=$TEST_RAIL_RUN_ID_7
+  artifacts:
+    untracked: true
+  only:
+    - schedules
+  
+test-8:on-schedule:
+  stage: test
+  script:
+    - make test platform=$PLATFORM SAUCELAB_USER=$SAUCELAB_USER SAUCELAB_ACCESSKEY=$SAUCELAB_ACCESSKEY TAGS=$TAGS_8 SAUCE_CONNECT_PATH=$SAUCE_CONNECT_PATH TEST_RAIL_FLAG=$TEST_RAIL_FLAG HTTP_PROXY=$HTTP_PROXY HTTPS_PROXY=$HTTPS_PROXY TEST_RAIL_RUN_ID=$TEST_RAIL_RUN_ID_8
+  artifacts:
+    untracked: true
+  only:
+    - schedules
+
+test-9:on-schedule:
+  stage: test
+  script:
+    - make test platform=$PLATFORM SAUCELAB_USER=$SAUCELAB_USER SAUCELAB_ACCESSKEY=$SAUCELAB_ACCESSKEY TAGS=$TAGS_9 SAUCE_CONNECT_PATH=$SAUCE_CONNECT_PATH TEST_RAIL_FLAG=$TEST_RAIL_FLAG HTTP_PROXY=$HTTP_PROXY HTTPS_PROXY=$HTTPS_PROXY TEST_RAIL_RUN_ID=$TEST_RAIL_RUN_ID_9
+  artifacts:
+    untracked: true
+  only:
+    - schedules
+  
+test-10:on-schedule:
+  stage: test
+  script:
+    - make test platform=$PLATFORM SAUCELAB_USER=$SAUCELAB_USER SAUCELAB_ACCESSKEY=$SAUCELAB_ACCESSKEY TAGS=$TAGS_10 SAUCE_CONNECT_PATH=$SAUCE_CONNECT_PATH TEST_RAIL_FLAG=$TEST_RAIL_FLAG HTTP_PROXY=$HTTP_PROXY HTTPS_PROXY=$HTTPS_PROXY TEST_RAIL_RUN_ID=$TEST_RAIL_RUN_ID_10
+  artifacts:
+    untracked: true
+  only:
+    - schedules

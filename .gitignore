@@ -1,0 +1,34 @@
+# IDE configuration
+.idea/
+
+# Ruby debugger history
+.byebug_history
+
+# Ignore cucumber reports
+reports.json
+results.html
+reports/*.html
+
+**/reports/*.html
+
+# Ignore node dependencies (in case installing node inside this repo folder)
+node_modules
+package.json
+yarn.lock
+
+# Ignore Android emulator report
+android*.txt
+reports_*.html
+
+# Ignore appium report
+appium_server.log
+
+# Ignore any picture
+**/reports/snapshots/*.png
+reports/snapshots/*.jpg
+
+# Ignore saucelabs setting
+saucelab.*.env
+
+.DS_Store
+

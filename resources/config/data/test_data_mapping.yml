@@ -1,0 +1,1020 @@
+#Language
+language: "english"
+language_en: "english"
+language_id: "bahasa"
+
+#onboarding
+language_page_title: "Before we begin"
+correct_cashtag_1: "alexjack"
+correct_cashtag_2: "alexjack1990"
+correct_cashtag_3: "al1"
+incorrect_cashtag_1: "!@#$%^&*() "
+incorrect_cashtag_2: "a2"
+incorrect_cashtag_3: "eatthatshit"
+incorrect_cashtag_4: "123456789"
+about_you_page_title: "About You"
+house_number: "14"
+house_rt_rw: "14/5"
+day: "14"
+month: "10"
+year: "1998"
+cashtag_empty_notification: "Oops... cashtag can't be empty"
+cashtag_below_minimum_notification: "Oops... cashtag must be at least 3 characters"
+cashtag_bad_word_notification: "Oops... nice word dude"
+cashtag_only_numeric_notification: "This cashtag must consist of alphabetic values OR alpha-numeric combinations."
+cashtag_page_title: "Create Your Unique **** Cashtag"
+cashtag_overlimit: "alexjack_alexjack_alexjack"
+create_password_page_title: "Create your password"
+valid_email: "test@google.com"
+email_nill: "Create your password"
+valid_phone_number: "08568589706"
+phone_number_with_62: "628568589706"
+phone_number_with_+62: "+628568589706"
+phone_number_with_021: "0218291249"
+phone_number_nill: " "
+onboarding_indonesia_phone_number: "+62856"
+phone_number_overlimit: "085685858585858585858585858585"
+card_page_title: "Name on your Card"
+card_selection_fullname: "Impola Tonatua Surya"
+card_selection_middle_last_initial: "Impola T S"
+card_selection_first_middle_initial: "I T Surya"
+card_selection_middle_initial: "Impola T Surya"
+incorrect_phone_number: "Please enter an Indonesian mobile no."
+non_numeric_phone_number: "+*&)+++"
+non_indonesia_phone_number: "+618568589706"
+lower_than_valid_age: "Minimum valid age is 17 years old"
+empty: " "
+indonesian_language: "Indonesian"
+english_language: "English"
+invalid_full_name_notification: "Must be alphabetic characters"
+mailing_page_title: "Input alamat pengiriman kartu anda"
+question_page_title: "Input your personal details"
+owner_page_title: "Your Beneficial Owner’s Information"
+ktp_overlimit: "12345678901234567890"
+valid_ktp: "1234567890123456"
+invalid_ktp: "1234567890"
+blank_field: "This field cannot be blank"
+blank_ktp_field: "KTP number can't be empty"
+ktp_invalid_length: "KTP number must be 16 digits long"
+ktp_photo_page: "KTP"
+help_page: "Help"
+help_second_message: "Why is my mobile number invalid?"
+help_second_message_sub_content: "Please make sure your mobile number is active and from Indonesian provider. You can input your mobile number starting with +628xxx or 08xxx."
+selfie_ktp_photo_page: "Selfie with KTP"
+ktp_photo_page_popup: "Take a photo of your KTP"
+selfie_ktp_photo_page_popup: "Take a selfie with your KTP"
+ok_got_it: "OK, GOT IT!"
+ok: "OK!"
+valid_full_name: "Impola Tonatua Surya"
+invalid_full_name: "Flying 1990"
+full_name_overlimit: "Flying FrogFlying FrogFlying FrogFlying FrogFlying FrogFlying FrogFlying FrogFlying Frog"
+valid_company_name: "****"
+valid_company_address: "Jl DR. Ide Anak Agung Gde Agung Kav 5.5-5.6"
+valid_city: "Jakarta"
+valid_office_phone: "02130026200"
+npwp_notification: "NPWP is a mandatory document for the bank. You can submit it within 14 days after you create your account."
+npwp_radio_button_text: "Saya tidak membawa NPWP"
+checked_icon: ""
+invalid_phone_number: "0856"
+invalid_email_1: "test"
+correct_password: "Password@123"
+password_overlimit: "Password@123Password@123Password@123"
+incorrect_password_1: "Password@"
+incorrect_password_2: "password@123"
+incorrect_password_3: "PASSWORD@123"
+incorrect_password_4: "Password123"
+incorrect_password_5: "Pas@12"
+incorrect_password_notification_1: "Oops... password should have number character"
+incorrect_password_notification_2: "Oops... password should have uppercase letter"
+incorrect_password_notification_3: "Oops... password should have lowercase letter"
+incorrect_password_notification_4: "Oops... password should have special character"
+incorrect_password_notification_5: "Must have minimum 8 characters"
+password: "t3sT"
+pin_page_title: "Create a 6-digit PIN"
+confirm_pin_page_title: "Confirm your PIN"
+personalized_page_title: "Personalized Your Account"
+otp_expired_message_page: "Hey, welcome back!"
+emailandphone_page_title: "Input your mobile number"
+authentication_page_title: "Authentication"
+identity_page_title: "Input your identity information"
+photo_page_title: "Take a photo of your KTP and signature"
+correct_otp: "123456"
+incorrect_otp_1: "123789"
+incorrect_otp_2: "456123"
+incorrect_otp_3: "789456"
+incorrect_otp_notification: "Oops... incorrect verification code. Make sure you input the latest code."
+valid_address: "Jl. Tebet dalam raya"
+correct_pin: "134679"
+incorrect_pin: "135135"
+termandcondition_page_title: "Terms & Condition"
+termandcondition_showall_content: "MANFAAT"
+secureaccount_page_title: "Secure Your Account"
+default_email_address_underline_text: "Use this email to log in to **** app"
+email_address_underline_text_wrong: "Oops... the email address you've entered is not valid"
+email_address_underline_text_empty: "Oops... email can't be empty"
+default_phone_number_underline_text: "Verification code will be sent to this number"
+phone_number_underline_text_wrong: "This phone number is not Indonesia Phone number"
+phone_number_underline_text_empty: "Oops... phone can't be empty"
+success_page_title: "Welcome to a new way of life"
+
+filter_category_children_label: "Children"
+filter_category_credit_card_label: "Credit Card"
+filter_category_education_label: "Education"
+filter_category_entertainment_label: "Entertainment"
+
+onboarding_mailing_build_dropdown: "House"
+onboarding_mailing_province_dropdown: "DKI JAKARTA"
+onboarding_mailing_city_dropdown: "JAKARTA PUSAT"
+onboarding_mailing_districts_dropdown: "GAMBIR"
+onboarding_mailing_kelurahan_dropdown: "KEBON KELAPA"
+onboarding_mailing_zipcode_dropdown: "10120"
+onboarding_question_purpose_dropdown_value_1: "Savings/Investment"
+onboarding_question_income_dropdown_value_2: "IDR 5,000,000 – 10,000,000"
+onboarding_question_income_dropdown_value_1: "IDR 1,000,000 – 5,000,000"
+onboarding_question_spending_dropdown_value_1: "< IDR1,000,000"
+onboarding_question_spending_dropdown_value_2: "IDR 5,000,000 – 10,000,000"
+onboarding_question_spending_dropdown_value_3: "IDR 1,000,000 – 5,000,000"
+onboarding_question_source_dropdown_value_1: "Salary"
+onboarding_question_source_dropdown_value_2: "Inheritance"
+onboarding_question_industry_dropdown_value_1: "Mining and Excavation"
+onboarding_question_position_dropdown_value_1: "Staff"
+onboarding_question_related_dropdown_value_1: "Spouse"
+onboarding_card_name_dropdown_middle_last_initial: "Impola T S"
+onboarding_owner_industry_dropdown_value_1: "Mining and Excavation"
+onboarding_owner_source_dropdown_value_1: "Salary"
+onboarding_owner_income_dropdown_value_1: "< IDR1,000,000"
+onboarding_question_occupation_dropdown_value_1: "Private Employee (Non-Financial)"
+onboarding_card_selection_fullname: "Impola Tonatua Surya"
+onboarding_card_selection_middle_last_initial: "Impola T S"
+onboarding_card_selection_first_middle_initial: "I T Surya"
+onboarding_card_selection_middle_initial: "Impola T Surya"
+
+#Authentication
+authentication_active_email_account: *account_19.email
+authentication_active_password_account: *account_19.password
+authentication_inactive_email_account: *account_19.email
+authentication_inactive_password_account: *account_19.password
+authentication_dormant_email_account: "dormant@mail.fake"
+authentication_dormant_password_account: "password"
+authentication_correct_mcard_cvv: *account_x.mcard_cvv
+authentication_incorrect_mcard_cvv: "111"
+authentication_correct_mcard_expiry_date: *account_x.mcard_expire_date
+authentication_incorrect_mcard_xpiry_date: "1111"
+authentication_invalid_login_top_notification: "Your email or password is incorrect"
+authentication_invalid_email_underline_notification: "Your email or password is incorrect"
+authentication_invalid_password_underline_notification: "Your email or password is incorrect"
+authentication_invalid_cvvorexpiry_notification: "Oops... The CVV code or expiry date is invalid."
+authentication_create_pin_page_title: "Create device PIN"
+authentication_confirm_pin_page_title: "Confirm your PIN"
+authentication_fifth_invalid_cvvorexpiry_notification: "Oops.. you have reached the maximum attempts. You can try again in the next 2 minutes."
+authentication_fifthteen_invalid_cvvorexpiry_notification: "Oops.. you have reached the maximum attempts. You can try again in the next 2 minutes."
+authentication_twenty_invalid_cvvorexpiry_notification: "Oops... You have reached the maximum attempts. You can try again in the next 24 hours."
+
+authentication_dormant_popup_title: "Hi! Your account is dormant for quite a while"
+authentication_notification_dormant_user: "Hi! Your account is dormant for quite a while"
+authentication_login_pin_page: "Enter your PIN"
+incorrect_pin_notification_number_1: "1/5"
+incorrect_pin_notification_number_2: "2/5"
+incorrect_pin_notification_number_3: "3/5"
+incorrect_pin_notification_number_4: "4/5"
+authentication_forgot_pin_password: "Enter your Password to authenticate"
+dashboard_account_notactive: "Not Active"
+
+#Dashboard
+dashboard_active_account: *Account_11.email#Account_11.password
+dashboard_inprogress_account: *Account_20.email#Account_20.password
+dashboard_inactive_account: *Account_19.email#Account_19.password
+dashboard_dynamic_account: **Account_12.email#account_12.password
+dashboard_one_transaction_account: *Account_21.email#Account_21.password
+dashboard_two_transaction_account: *Account_22.email#Account_22.password
+dashboard_wealth_widget_instruction_text_3_en: "How to add money into your **** account"
+dashboard_wealth_widget_instruction_text_3_id: "Cara menambahkan saldo akun ****"
+dashboard_wealth_widget_instruction_text_4_en: "Use your account number below and make sure you choose Bank **** (bank code : 213) when you send your money."
+dashboard_wealth_widget_instruction_text_4_id: "Gunakan nomor rekening di bawah dan pastikan kamu memilih Bank **** (kode bank : 213) ketika mengirim uang."
+connection_loss_notification: "Trying to reconnect"
+dashboard_wealth_widget_top_up_tutorial_page_title: "How to Top Up"
+dashboard_wealth_widget_top_up_tutorial_page_title_content: "How to Top Up Your **** Account"
+
+dashboard_account_status_inprogresss_en: "Activation in progress"
+dashboard_account_status_inprogresss_id: "Dalam proses aktivasi"
+dashboard_tenmillion_account: *Account_3.email#Account_3.password
+dashboard_total_balance_value: **Account_3.wealth_widget_total_balance
+dashboard_active_balance_value: **Account_3.wealth_widget_active_balance
+dashboard_save_it_value: **Account_3.wealth_widget_save_it
+dashboard_cards_value: **Account_3.wealth_widget_cards
+
+dashboard_wealth_active_balance_value_zero: *Account_11.active_balance
+dashboard_wealth_card_value_zero: *Account_11.card_balance
+dashboard_wealth_save_it_value_zero: *Account_11.save_it_balance
+dashboard_wealth_total_balance_value_zero: *Account_11.total_balance
+dashboard_wealth_total_balance_value_available: **Account_12.total_balance
+dashboard_wealth_inactive_total_balance_value_available: *Account_19.total_balance
+dashboard_wealth_inprogress_total_balance_value_available: *Account_20.total_balance
+
+#In & Out
+in_and_out_dynamic: **account_12.email#account_12.password
+in_and_out_static: *account_19.email#account_19.password
+in_and_out_active_account: *Account_11.email#Account_11.password
+in_and_out_number_transaction_10_49: "Showing 10 of 49"
+in_and_out_number_transaction_20_49: "Showing 20 of 49"
+in_and_out_number_transaction_30_49: "Showing 30 of 49"
+in_and_out_number_transaction_40_49: "Showing 40 of 49"
+in_and_out_number_transaction_10_27: "Showing 10 of 27"
+in_and_out_number_transaction_20_27: "Showing 20 of 27"
+in_and_out_number_transaction_27_27: "Showing 27 of 27"
+in_and_out_number_transaction_10_11: "Showing 10 of 11"
+in_and_out_number_transaction_10_23: "Showing 10 of 23"
+in_and_out_number_transaction_20_23: "Showing 20 of 23"
+in_and_out_number_transaction_1_id: "Menampilkan 10 dari 49"
+in_and_out_number_transaction_2_id: "Menampilkan 20 dari 49"
+in_and_out_number_transaction_3_id: "Menampilkan 30 dari 49"
+in_and_out_number_transaction_4_id: "Menampilkan 40 dari 49"
+
+in_and_out_search_empty: ""
+zero_value: "0"
+in_and_out_search_c: "c"
+in_and_out_search_ca: "ca"
+in_and_out_search_cashtag: "Cashtag"
+in_and_out_search_recipient_name_4: **account_12.recipient_name_1_three_letters #win
+in_and_out_search_arbi: "Arbi"
+in_and_out_search_recipient_first_name_5: **account_12.recipient_first_name_5 #julia
+in_and_out_search_recipient_full_name_5: **account_12.recipient_full_name_5 #julia march
+in_and_out_search_from_****_contact_single_word_name: **account_12.from_****_contact_single_word_name
+in_and_out_search_from_****_contact_double_words_name: **account_12.from_****_contact_double_words_name
+in_and_out_search_from_****_contact_triple_words_name: **account_12.from_****_contact_triple_words_name
+in_and_out_search_to_****_contact_single_word_name: **account_12.to_****_contact_single_word_name
+in_and_out_search_to_****_contact_double_words_name: **account_12.to_****_contact_double_words_name
+in_and_out_search_to_****_contact_triple_words_name: **account_12.to_****_contact_triple_words_name
+in_and_out_search_incoming_single_word_name: **account_12.sender_single_word_name
+in_and_out_search_incoming_double_words_name: **account_12.sender_double_words_name
+in_and_out_search_incoming_triple_words_name: **account_12.sender_triple_words_name
+in_and_out_search_outgoing_single_word_name: **account_12.sender_single_word_name
+in_and_out_search_outgoing_double_words_name: **account_12.sender_double_words_name
+in_and_out_search_outgoing_triple_words_name: **account_12.sender_triple_words_name
+in_and_out_search_****_contact_list_partial_name: **account_12.recipient_first_name_5 #julia
+in_and_out_search_****_contact_list_full_name: **account_12.recipient_full_name_5 #Julia March
+in_and_out_search_email_full_name: **account_12.recipient_email_full_name_5 #julia@galak.com
+in_and_out_search_recipient_name_6: "split"
+in_and_out_search_three_recipient_characters_name_5: **account_12.three_recipient_characters_name_5 #jul
+in_and_out_search_flexi_saver: "flexi saver"
+in_and_out_search_atm_fee: "atm fee"
+in_and_out_search_arbiseptian: "Arbi Septian"
+in_and_out_search_recipient_name_1: **account_12.recipient_name_1 #ptbukalapak
+in_and_out_detail_recipient_name_1_amount: **account_12.recipient_name_1_amount
+in_and_out_detail_recipient_name_1_date_text: **account_12.recipient_name_1_date_text
+in_and_out_filter_text: "Search"
+in_and_out_history_tab_text: "HISTORY"
+in_and_out_upcoming_tab_text: "UPCOMING"
+in_and_out_request_tab_text: "REQUESTS"
+in_and_out_history_tab_text_id: "HISTORI"
+in_and_out_upcoming_tab_text_id: "TERJADWAL"
+in_and_out_request_tab_text_id: "PERMINTAAN"
+in_and_out_amount_from: "111"
+in_and_out_amount_to: "111,111,111"
+in_and_out_amount_range_from_222: "222"
+in_and_out_amount_range_to_222222222: "222,222,222"
+in_and_out_amount_range_from_111: "111"
+in_and_out_amount_range_to_111111111: "111,111,111"
+in_and_out_amount_range_zero: "0"
+in_and_out_filter_amount_range_from_222_to_222222222: "222 - 222,222,222"
+in_and_out_filter_amount_range_from_111_to_111111111: "111 - 111,111,111"
+in_and_out_search_overlimit: "Uvuvwevwevwe Onyetenyevwe Ugwemuhwem Osas Uvuvwevwevwe Onyetenyevwe Ugwemuhwem Osas Uvuvwevwevwe Ugwemuhwem"
+in_and_out_search_overlimit_with_symbols: "Uvuvwevwevwe Onyetenyevwe Ugwemuhwem Osas Uvuvwevwevwe Onyetenyevwe Ugwemuhwem Osas Uvuvwevwevwe Ugwemuhwem ~`!@#$%^&*()_+ Uvuvwevwevwe Onyetenyevwe Ugwemuhwem Osas Uvuvwevwevwe Onyetenyevwe Ugwemuhwem Osas Uvuvwevwevwe UgwemuhwemUvuvwevwevwe Onyetenyevwe Ugwemuhwem Osas Uvuvwevwevwe Onyetenyevwe Ugwemuhwem Osas Uvuvwevwevwe Ugwemuhwem"
+
+in_and_out_filter_counter_zero: "Active Filter 0" 
+in_and_out_filter_counter_one: "Active Filter 1"
+in_and_out_filter_counter_two: "Active Filter 2"
+in_and_out_filter_counter_three: "Active Filter 3"
+in_and_out_filter_counter_four: "Active Filter 4"
+in_and_out_filter_apply_filter_label: "APPLY FILTER"
+in_and_out_filter_select_all_label: "SELECT ALL"
+in_and_out_filter_done_label: "DONE"
+in_and_out_filter_category_label: "Category"
+in_and_out_filter_category_bank_charge_label: "Bank Charge"
+in_and_out_filter_category_bill_payment_label: "Bill Payment"
+in_and_out_filter_time_range_label: "Time range"
+in_and_out_filter_amount_range_label: "Amount range"
+in_and_out_filter_transaction_type_label: "Transaction Type"
+in_and_out_filter_selected_all_transaction_type: "23 types"
+in_and_out_filter_counter_zero_id: "Filter Aktif 0"
+in_and_out_filter_counter_one_id: "Filter Aktif 1"
+in_and_out_filter_counter_two_id: "Filter Aktif 2"
+in_and_out_filter_counter_three_id: "Filter Aktif 3"
+in_and_out_filter_counter_four_id: "Filter Aktif 4"
+in_and_out_filter_apply_filter_label_id: "TAMBAHKAN FILTER"
+in_and_out_filter_select_all_label_id: "PILIH SEMUA"
+in_and_out_filter_done_label_id: "SELESAI"
+in_and_out_filter_category_label_id: "Kategori"
+in_and_out_filter_category_bank_charge_label_id: "Tarif dan biaya Bank"
+in_and_out_filter_category_bill_payment_label_id: "Pembayaran tagihan"
+in_and_out_filter_time_range_label_id: "Rentang waktu"
+in_and_out_filter_amount_range_label_id: "Besar transaksi"
+in_and_out_filter_transaction_type_label_id: "Tipe transaksi"
+in_and_out_filter_selected_all_transaction_type_id: "15 tipe"
+
+in_and_out_history_arbi: "Arbi Septian"
+in_and_out_history_bene: "BENEFICIARY_NAME"
+in_and_out_history_bersama_atm: "Bersama ATM Cash Withdrawal"
+in_and_out_history_category_uncategorized: "Uncategorized"
+in_and_out_history_category_children: "Children"
+in_and_out_history_category_creditcard: "Credit Card"
+in_and_out_history_category_education: "Education"
+in_and_out_history_category_entertaiment: "Entertainment"
+in_and_out_history_empty_message: "\"No Transaction yet?
+When you have made a purchase or paid a bill, we’ll collect your latest transactions here.\""
+in_and_out_history_bill_payment: **account_12.history_bill_payment
+in_and_out_history_payment_with_card: **account_12.history_payment_with_card
+
+in_and_out_request_split_bill_note_text: **account_12.request_split_bill_note_text
+in_and_out_request_split_bill_menu_three_****_contributor_paid: **account_12.request_split_bill_menu_three_****_contributor_paid
+in_and_out_request_split_bill_menu_three_****_contributor_declined: **account_12.request_split_bill_menu_three_****_contributor_declined
+in_and_out_request_split_bill_menu_three_****_contributor_unpaid: **account_12.request_split_bill_menu_three_****_contributor_unpaid
+in_and_out_request_split_bill_menu_three_****_contributor_partial_resolved: **account_12.request_split_bill_menu_three_****_contributor_partial_resolved
+in_and_out_request_split_bill_menu_three_non_****_contributor_paid: **account_12.request_split_bill_menu_three_non_****_contributor_paid
+in_and_out_request_split_bill_menu_three_non_****_contributor_declined: **account_12.request_split_bill_menu_three_non_****_contributor_declined
+in_and_out_request_split_bill_menu_three_non_****_contributor_unpaid: **account_12.request_split_bill_menu_three_non_****_contributor_unpaid
+in_and_out_request_split_bill_menu_three_non_****_contributor_partial_resolved: **account_12.request_split_bill_menu_three_non_****_contributor_partial_resolved
+in_and_out_request_split_bill_menu_two_****_paid_one_non_****_unpaid: **account_12.request_split_bill_menu_three_non_****_contributor_partial_resolved
+in_and_out_request_split_bill_menu_one_****_paid_two_****_unpaid: **account_12.request_split_bill_menu_one_****_paid_two_****_unpaid
+in_and_out_request_split_bill_menu_one_****_declined_two_****_unpaid: **account_12.request_split_bill_menu_one_****_declined_two_****_unpaid
+in_and_out_request_split_bill_menu_one_****_unpaid_non_****_paid: **account_12.request_split_bill_menu_one_****_unpaid_non_****_paid
+in_and_out_request_split_bill_menu_one_****_declined_one_****_unpaid_one_non_****_unpaid: **account_12.request_split_bill_menu_one_****_declined_one_****_unpaid_one_non_****_unpaid
+in_and_out_request_split_bill_history_three_****_contributor_paid: **account_12.request_split_bill_history_three_****_contributor_paid
+in_and_out_request_split_bill_history_three_****_contributor_declined: **account_12.request_split_bill_history_three_****_contributor_declined
+in_and_out_request_split_bill_history_three_****_contributor_unpaid: **account_12.request_split_bill_history_three_****_contributor_unpaid
+in_and_out_request_split_bill_history_three_****_contributor_partial_resolved: **account_12.request_split_bill_history_three_****_contributor_partial_resolved
+in_and_out_request_split_bill_history_three_non_****_contributor_paid: **account_12.request_split_bill_history_three_non_****_contributor_paid
+in_and_out_request_split_bill_history_three_non_****_contributor_declined: **account_12.request_split_bill_history_three_non_****_contributor_declined
+in_and_out_request_split_bill_history_three_non_****_contributor_unpaid: **account_12.request_split_bill_history_three_non_****_contributor_unpaid
+in_and_out_request_split_bill_history_three_non_****_contributor_partial_resolved: **account_12.request_split_bill_history_three_non_****_contributor_partial_resolved
+in_and_out_request_split_bill_history_two_****_paid_one_non_****_unpaid: **account_12.request_split_bill_history_three_non_****_contributor_partial_resolved
+in_and_out_request_split_bill_history_two_****_paid_one_non_****_paid: **account_12.request_split_bill_history_two_****_paid_one_non_****_paid
+in_and_out_request_split_bill_history_one_****_paid_two_****_unpaid: **account_12.request_split_bill_history_one_****_paid_two_****_unpaid
+in_and_out_request_split_bill_history_one_****_declined_two_****_unpaid: **account_12.request_split_bill_history_one_****_declined_two_****_unpaid
+in_and_out_request_split_bill_history_one_****_unpaid_non_****_paid: **account_12.request_split_bill_history_one_****_unpaid_non_****_paid
+in_and_out_request_split_bill_history_one_****_declined_one_****_unpaid_one_non_****_unpaid: **account_12.request_split_bill_history_one_****_declined_one_****_unpaid_one_non_****_unpaid
+in_and_out_request_split_bill_history_two_non_****_unpaid: **account_12.request_split_bill_history_two_non_****_unpaid
+in_and_out_request_split_bill_history_two_****_unpaid_non_****_unpaid: **account_12.request_split_bill_history_two_****_unpaid_non_****_unpaid
+in_and_out_request_split_bill_history_one_****_unpaid_two_****_paid: **account_12.request_split_bill_history_one_****_unpaid_two_****_paid
+in_and_out_request_split_bill_history_two_non_****_paid: **account_12.request_split_bill_history_two_non_****_paid
+in_and_out_request_split_bill_history_four_****_declined: **account_12.request_split_bill_history_four_****_declined
+in_and_out_request_split_bill_history_three_****_declined: **account_12.request_split_bill_history_three_****_declined
+in_and_out_request_split_bill_history_one_****_declined_two_****_declined: **account_12.request_split_bill_history_one_****_declined_two_****_declined
+in_and_out_request_split_bill_history_one_****_paid_one_****_declined: **account_12.request_split_bill_history_one_****_paid_one_****_declined
+in_and_out_request_split_bill_history_one_non_****_paid_one_non_****_declined: **account_12.request_split_bill_history_one_non_****_paid_one_non_****_declined
+in_and_out_request_split_bill_history_two_****_paid_two_non_****_declined: **account_12.request_split_bill_history_two_****_paid_two_non_****_declined
+in_and_out_request_split_bill_history_three_****_paid_one_****_unpaid: **account_12.request_split_bill_history_three_****_paid_one_****_unpaid
+in_and_out_request_split_bill_history_two_non_****_paid_one_non_****_unpaid: **account_12.request_split_bill_history_two_non_****_paid_one_non_****_unpaid
+in_and_out_request_split_bill_history_one_****_paid_one_****_unpaid: **account_12.request_split_bill_history_one_****_paid_one_****_unpaid
+in_and_out_request_split_bill_history_two_****_declined_two_****_unpaid: **account_12.request_split_bill_history_two_****_declined_two_****_unpaid
+in_and_out_request_split_bill_history_two_****_unpaid_two_****_declined_one_****_paid: **account_12.request_split_bill_history_two_****_unpaid_two_****_declined_one_****_paid
+in_and_out_request_split_bill_history_two_****_unpaid_one_****_declined_two_****_paid: **account_12.request_split_bill_history_two_****_unpaid_one_****_declined_two_****_paid
+in_and_out_request_split_bill_history_one_****_unpaid_three_non_****_declined_two_****_paid: **account_12.request_split_bill_history_one_****_unpaid_three_non_****_declined_two_****_paid
+in_and_out_request_split_bill_history_three_****_declined_one_non_****_unpaid_two_non_****_paid: **account_12.request_split_bill_history_three_****_declined_one_non_****_unpaid_two_non_****_paid
+in_and_out_request_split_bill_history_one_****_paid_two_non_****_unpaid_one_non_****_declined: **account_12.request_split_bill_history_one_****_paid_two_non_****_unpaid_one_non_****_declined
+in_and_out_request_split_bill_history_one_non_****_declined_two_non_****_unpaid:  **account_12.request_split_bill_history_one_non_****_declined_two_non_****_unpaid
+in_and_out_request_split_bill_history_one_****_declined_two_non_****_unpaid: **account_12.request_split_bill_history_one_****_declined_two_non_****_unpaid
+in_and_out_request_split_bill_history_two_****_unpaid_three_non_****_declined: **account_12.request_split_bill_history_two_****_unpaid_three_non_****_declined
+
+in_and_out_request_splitbill_status_unpaid: "Unpaid"
+in_and_out_request_splitbill_status_paid: "Paid"
+in_and_out_request_splitbill_status_declined: "Declined"
+in_and_out_request_splitbill_status_partially: "Partially Resolved"
+in_and_out_request_splitbill_status_resolved: "Resolved"
+
+in_and_out_request_payme_default_category: "Uncategorized"
+in_and_out_request_payme_contact_initial_one: **account_12.recipient_initial_name_1
+in_and_out_request_split_bill_picture_initial: "SB"
+
+#Awards
+awards_active_account: *Account_11.email#Account_11.password
+awards_inprogress_account: *Account_20.email#Account_20.password
+awards_inactive_account: *Account_19.email#Account_19.password
+awards_title_screen_en: "Share Your **** Experience"
+awards_description_en: "Invite friends and family to discover how convenient life can be with ****."
+awards_how_en: "How does this work?"
+awards_title_screen_id: "Bagikan Pengalaman ****-mu"
+awards_description_id: "Temukan kemudahan **** yang lebih maksimal bersama teman dan keluargamu."
+awards_how_id: "Bagaimana caranya?"
+
+#Notification
+notification_various: *Account_18.email#Account_18.password
+
+#Card Center
+card_center_activate_m_card_processing_e_card: *Account_17.email#Account_17.password
+card_center_activate: "ACTIVATE"
+card_center_active_all_card: *Account_16.email#Account_16.password
+card_center_active_to_pblock_e_card_cif: **Account_3.email#Account_3.password
+card_center_active_e_card_ui: **Account_13.email#Account_13.password
+card_center_active_e_card: **Account_2.email#Account_2.password
+card_center_active_filter_four: "Active filter 4"
+card_center_active_filter_one: "Active filter 1"
+card_center_active_filter_zero: "Active filter 0"
+card_center_active_m_card_cif: **Account_4.email#Account_4.password
+card_center_active_to_pblock_m_card_cif: **Account_3.email#Account_3.password
+card_center_tblock_to_pblock_m_card_cif_no_fee: **Account_8.email#Account_8.password
+card_center_active_m_card_zero_e_card: **Account6_email#Account_6.password
+card_center_tblock_to_pblock_m_card_cif: **Account_8.email#Account_8.password
+card_center_active_x_card_cif: **Account_10.email#Account_10.password
+card_center_active_x_card_cif_ui: **Account_13.email#Account_13.password
+card_center_active_to_tblock_x_card_cif: **Account_3.email#Account_3.password
+card_center_active_x_card_name: **Account_4.x_card.name
+card_center_active_to_pblock_m_card_cif_free: **Account_4.email#Account_4.password
+card_center_active: "Active"
+card_center_block_card_reason_1: "Stolen"
+card_center_block_card_reason_2: "Lost"
+card_center_block_card_reason_3: "Damaged"
+card_center_block_card: "Block Card"
+card_center_blocked_e_card: **Account_8.email#Account_8.password
+card_center_blocked_m_card: **Account_8.email#Account_8.password
+card_center_blocked_x_card: **Account_8.email#Account_8.password
+card_center_card_cvv_empty: "Oops... CVV code can't be empty"
+card_center_card_pin_easy: "Oops... the number combination is too predictable. Please create a more complex one for your account security."
+card_center_card_pin_empty: "Oops... PIN can't be empty"
+card_center_card_pin_few: "Oops... PIN must be 6-digit long"
+card_center_card_pin_not_match: "Oops... PIN didn't match"
+card_center_change_pin_success: "Your card PIN has been changed"
+card_center_correct_activate_x_card_pin: **Account_2.x_card.pin
+card_center_correct_change_pin_x_card_pin: **Account_12.x_card.pin
+card_center_correct_activate_m_card_pin: **Account_2.m_card.pin
+card_center_correct_change_pin_m_card_pin: **Account_12.m_card.pin
+card_center_activate_m_card_correct_cvv: **Account_2.m_card.cvv
+card_center_activate_x_card_correct_cvv: **Account_2.x_card.cvv
+card_center_active_m_card_correct_password_ui: **Account_4.password
+card_center_active_x_card_correct_password_ui: **Account_13.password
+card_center_active_m_card_correct_password_change_pin: **Account_12.password
+card_center_double_quote_character: \'"\'
+card_center_dropdown_reason_compromised: "(Compromised)"
+card_center_e_card_active_credential_top_up: **Account_12.email#Account_12.password
+card_center_x_card_active_credential_top_up: **Account_10.email#Account_10.password
+card_center_e_card_tblock_credential_top_up: **Account_7.email#Account_7.password
+card_center_x_card_tblock_credential_top_up: **Account_7.email#Account_7.password
+card_center_e_card_active_credential_ui: **Account_13.email#Account_13.password
+card_center_pblock_e_card_new_balance_dashboard: **Account_3.email#Account_3.password
+card_center_tblock_e_card_new_balance_dashboard: **Account_12.email#Account_12.password
+card_center_e_card_change_limit_error_message: "Oops... the maximum limit is 50,000,000 IDR"
+card_center_e_card_change_limit_push_message: "Your card limit has been changed"
+card_center_e_card_decrease_limit_min: "10"
+card_center_e_card_increase_limit_above_max: "100,000,000"
+card_center_e_card_increase_limit_max: "50,000,000"
+card_center_e_card_type: "Virtual Card"
+card_center_e_card: "e-Card"
+card_center_m_card_transaction_history_cif: *Account_12.email#Account_12.password
+card_center_filter_active_indicator_1: "1"
+card_center_filter_all_transaction_types_applied: "23 types"
+card_center_filter_amount_range_1: "1000"
+card_center_filter_amount_range_2: "5000"
+card_center_filter_amount_range_3: "100000"
+card_center_filter_amount_range_applied_1: "1,000 - 100,000"
+card_center_filter_amount_range_applied_2: "1,000 - 5,000"
+card_center_filter_amount_range_applied: "1,000 - 100,000"
+card_center_filter_amount_range_label_1: "1,000"
+card_center_filter_amount_range_label_2: "5,000"
+card_center_filter_amount_range_label_3: "100,000"
+card_center_filter_four_category_applied: "4 categories"
+card_center_filter_one_category_applied: "1 category"
+card_center_filter_select_more_than_one_static_text: "You may select more than 1"
+card_center_filter_time_range_input_selected_month_1: "5"
+card_center_filter_time_range_input_selected_month_2: "7"
+card_center_filter_time_range_maximum_date_selected: "1 Jan 2020"
+card_center_filter_time_range_minimum_date_selected: "1 Jan 2000"
+card_center_filter_time_range_starting_date_later_than_end_date_notification: "Oops... starting date must not be later than end date"
+
+card_center_inactive_m_card_cif_ui: **Account_1.email#Account_1.password
+card_center_inactive_to_active_m_card_cif: **Account_2.email#Account_2.password
+card_center_inactive_to_active_x_card_cif: **Account_2.email#Account_2.password
+card_center_input_with_more_than_hundred_characters: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"
+card_center_invalid_cvv: "Oops... you've entered an invalid CVV code"
+card_center_m_card_atm_limit_amt: **Account_4.m_card.atm_limit_amount
+card_center_m_card_atm_limit_label: "Daily Cash Withdrawal Limit"
+card_center_m_card_cvv_link: "SHOW CVV CODE"
+card_center_m_card_cvv_ui: **Account_4.m_card.atm_limit_amount
+card_center_m_card_daily_atm_withdraw_limit_error_message: "Oops... the maximum limit is 25,000,000 IDR"
+card_center_m_card_exp_ui: **Account_4.m_card.expired_date
+
+#card_center_m_card_exp: JENI303-T1134854,T1134856 needs refinement
+
+card_center_activate_m_card_masked_number: **Account_2.m_card.masked_number
+card_center_m_card_number_ui: **Account_4.m_card.expired_date
+card_center_m_card_showing_all_transactions_label: "Showing 27 of 27" 
+card_center_m_card_showing_ten_transactions_label: "Showing 10 of 27" 
+card_center_m_card_showing_twenty_transactions_label: "Showing 20 of 27" 
+card_center_m_card_single_purchase_limit_error_message: "Oops... the maximum limit is 50,000,000 IDR"
+card_center_m_card_transaction_history_uk_cif: *Account_12.email#Account_12.password
+card_center_m_card_transactions_cif: *Account_12.email#Account_12.password
+card_center_m_card_trx_limit_amt: **Account_4.m_card.transaction_limit_amount
+card_center_m_card_trx_limit_label: "Single Purchase Limit"
+card_center_m_card: "m-Card"
+card_center_maximum_input_characters: "100"
+card_center_mcard_daily_atm_withdrawal_decrease_limit: "10"
+card_center_mcard_daily_atm_withdrawal_increase_limit_above_max: "50,000,000"
+card_center_mcard_daily_atm_withdrawal_increase_limit: "25,000,000"
+card_center_mcard_single_purchase_decrease_limit: "10"
+
+#fixco
+card_center_mcard_single_purchase_increase_limit_above_max: "100,000,000"
+card_center_mcard_single_purchase_increase_limit: "50,000,000"
+
+card_center_number_transaction_filter_applied_1: "Showing 10 of 12"
+card_center_number_transaction_filter_applied_2: "Showing 6 of 6"
+card_center_number_transaction_filter_applied_3: "Showing 4 of 4"
+card_center_number_transaction_filter_applied_4: "Showing 1 of 1"
+card_center_over_max_number: "123456789012345678901234567890"
+card_center_pblock_m_card_cif: **Account_9.email#Account_9.password
+card_center_pblock_m_card_masked_number: **Account_9.m_card.masked_number
+card_center_pblock_m_card_trx_limit_amt: **Account_9.m_card.transaction_limit_amount
+card_center_pblock_nofee_active_balance: **Account_3.active_balance
+card_center_pblock_nofee_active_m_card_cif: **Account_3.email#Account_3.password
+card_center_pblock_nofee_m_card_masked_number: **Account_3.m_card.masked_number
+card_center_pblock_sufficient_fee_active_m_card_cif: **Account_5.email#Account_5.password
+card_center_pblock_x_card_cif: **Account_9.email#Account_9.password
+
+card_center_pblock_x_card_cif_ui: **Account_9.email#Account_9.password
+card_center_tblock_x_card_atm_limit_amt_ui: **Account_9.x_card.atm_limit_amount
+card_center_tblock_x_card_balance_amt_ui: **Account_9.active_balance
+card_center_tblock_x_card_exp_ui: **Account_9.x_card.expired_date
+card_center_tblock_x_card_masked_number_ui: **Account_9.x_card.masked_number
+card_center_tblock_x_card_name_ui: **Account_9.x_card.name
+card_center_tblock_x_card_trx_limit_amt_ui: **Account_9.x_card.transaction_limit_amount
+
+card_center_pblock_x_card_masked_number: **Account_9.x_card.masked_number
+card_center_pblock_x_card_name: **Account_9.x_card.name
+card_center_permanent_block_confirm_mail_address: **Account_3.mail_address
+card_center_permanent_block_page_subtitle: "Permanently block a card"
+card_center_permanent_block_page_title: "Block Card"
+card_center_permanently_block_card_detail_status: "Card is permanently blocked"
+card_center_permanently_blocked: "Permanently Blocked"
+card_center_processing: "Processing"
+card_center_reason_no_reasong_error: "Oops... you have to select your reason for blocking."
+card_center_replace_e_card: "Replacing e-Card..."
+card_center_search_text_1: "interest"
+card_center_search_text_2: "rudiger"
+card_center_search_text_3: "ru"
+card_center_search_text_4: "INT"
+card_center_search_text_5: "CASH"
+card_center_search_transactions_whitelist_characters: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789;:',./|[]{}_-+=`!@#$%^&*"
+card_center_active_to_tblock_m_card_cif: **Account_12.mail#Account_12.password
+card_center_tb_m_card_e_card_pb_first_x_card_second_x_card: 
+card_center_tblock_m_card_cif: **Account_7.mail#Account_7.password
+
+card_center_tblock_x_card_cif: **Account_7.mail#Account_7.password
+card_center_tblock_x_card_atm_limit_amt: **Account_7.x_card.atm_limit_amount
+card_center_tblock_x_card_balance_amt: **Account_7.active_balance
+card_center_tblock_x_card_exp: **Account_7.x_card.expired_date
+card_center_tblock_x_card_masked_number: **Account_7.x_card.masked_number
+card_center_tblock_x_card_name: **Account_7.x_card.name
+card_center_tblock_x_card_trx_limit_amt: **Account_7.x_card.transaction_limit_amount
+
+card_center_tblock_x_card_cif_ui: *Account_15.mail#Account_15.password
+card_center_tblock_x_card_atm_limit_amt_ui: **Account_15.x_card.atm_limit_amount
+card_center_tblock_x_card_balance_amt_ui: **Account_15.active_balance
+card_center_tblock_x_card_exp_ui: **Account_15.x_card.expired_date
+card_center_tblock_x_card_masked_number_ui: **Account_15.x_card.masked_number
+card_center_tblock_x_card_name_ui: **Account_15.x_card.name
+card_center_tblock_x_card_trx_limit_amt_ui: **Account_15.x_card.transaction_limit_amount
+
+card_center_tblocked_msg: "Your m-Card has been temporarily blocked"
+card_center_tblock_to_pblock_e_card_cif: **Account_6.mail#Account_6.password
+card_center_temporarily_block_card_detail_status: "Card is temporarily blocked"
+card_center_temporarily_block_e_card_detail_status: "Your e-Card has been temporarily blocked"
+card_center_temporarily_blocked: "Temporarily Blocked"
+card_center_title_activate_card: "Activate Card"
+card_center_top_up_hint_exceed: "Amount exceeds your active balance"
+card_center_top_up_hint_min: "Minimum balance is IDR 1"
+card_center_top_up_idr: "IDR"
+card_center_top_up_x_card_name: **Account_10.x_card.name
+card_center_transaction_category_uncategorized: "UNCATEGORIZED"
+card_center_transaction_history_month_1: "4"
+card_center_transaction_history_month_2: "5"
+card_center_transaction_history_month_3: "6"
+card_center_transaction_history_month_4: "8"
+card_center_transaction_history_month_5: "15"
+card_center_transaction_income_item_number: 1
+card_center_transaction_savings_item_number: 2 
+card_center_transaction_taxes_item_number: 1
+card_center_transaction_taxis_item_number: 1
+card_center_tutorial_1: "Card Center"
+card_center_tutorial_2: "Your **** cards"
+card_center_tutorial_3: "Card Activation"
+card_center_tutorial_4: "e-Card for shopping online"
+card_center_tutorial_eng_ok: "OK, GOT IT!"
+card_center_tutorial_next: "NEXT"
+card_center_tutorial_ok: "OK, GOT IT!"
+card_center_unblock_e_card: "Your e-Card has been unblocked"
+card_center_unblock_m_card: "Your m-Card has been unblocked"
+card_center_unblock_x_card: "Your x-Card has been unblocked"
+card_center_x_card_atm_limit_amt: **Account_13.x_card.atm_limit_amount
+card_center_x_card_atm_limit_label: "Daily Cash Withdrawal Limit"
+card_center_x_card_balance_amt: **Account_13.x_card.balance_amount
+card_center_x_card_balance_label: "Balance"
+card_center_x_card_cust_name: **Account_13.x_card.customer_name
+card_center_x_card_cvv_link: "SHOW CVV CODE"
+card_center_x_card_cvv: **Account_13.x_card.cvv
+card_center_x_card_exp: **Account_13.x_card.expired_date
+card_center_x_card_masked_number: **Account_13.x_card.masked_number
+card_center_x_card_name: **Account_13.x_card.name
+card_center_x_card_number: **Account_13.x_card.number
+card_center_x_card_trx_limit_amt: **Account_13.x_card.transaction_limit_amount
+card_center_x_card_trx_limit_label: "Single Purchase Limit"
+card_center: "Card Center"
+
+#Send It
+send_it_contact_dropdown_contact_name: **Account_12.contact.Account_1.name
+send_it_contact_****_cashtag: "$"
+send_it_contact_****_logo: ""
+send_it_contact_non_****:  **Account_12.contact.bca
+send_it_credential: **Account_12.email#Account_12.password
+send_it_date_day: "11"
+send_it_date_future_days: "10"
+send_it_date_month: "08"
+send_it_date_year: "2020"
+send_it_end_date_future_days: "8"
+send_it_end_date_last_month: "1"
+send_it_end_date_not_allowed_day: "31"
+send_it_end_date_not_allowed_month: "7"
+send_it_end_date_tommorow: "1"
+send_it_frequency_confirmation_cancel: "CANCEL"
+send_it_frequency_confirmation_proceed: "PROCEED"
+send_it_frequency_confirmation_title: "You’re setting up a scheduled repeating transfer"
+send_it_individual_confirm_page_amount: "IDR 1"
+send_it_individual_confirm_page_frequency_first_value: "Once"
+send_it_individual_confirm_page_frequency: "Annually"
+send_it_individual_confirm_page_monthly: "Monthly"
+send_it_individual_confirm_page_weekly: "Weekly"
+send_it_individual_page_amount: "1"
+send_it_individual_page_contact_name: **Account_12.contact.Account_1.name
+send_it_individual_page_date_value: "Now"
+send_it_individual_page_end_manual: "Manual Recall"
+send_it_individual_page_end_values: "Date,No. of payments,Manual Recall"
+send_it_individual_page_end: "End after"
+send_it_individual_page_frequency_value: "Once"
+send_it_individual_page_frequency: "Once,Weekly,Biweekly,Monthly,Quarterly,Semi Annually,Annually"
+send_it_individual_page_no_payment_3: "3"
+send_it_individual_page_no_payment: "No. of payments"
+send_it_individual_search_contact_name: **Account_12.contact.Account_1.name
+send_it_menu: "Send It"
+send_it_new_account_page_bca: "BCA"
+send_it_new_account_page_****: "****"
+send_it_new_account_page_mandiri: "Mandiri"
+send_it_new_account_page_title: "New Bank Account"
+send_it_new_bank_page_account_bca: **Account_12.other_bank.bca.account_number
+send_it_new_bank_page_add_button: "ADD BANK ACCOUNT"
+send_it_transfer_tab_no_contact_message: "There is no contact here or you can Add Recipient to do the action"
+
+
+#SplitBill
+split_bill_cif: *Account_12.email#Account_12.password
+split_bill_cif_receiver: *Account_13.email#Account_13.password
+split_bill_fullname_user_login_requestor: *Account_12.fullname
+split_bill_request_amount: "Request to Split Bill IDR 75,000 with you"
+#It will come from generated data
+split_bill_contacts_label_1: *Account_12.contact_13.fullname
+#It will come from generated data
+split_bill_contacts_label_2: *Account_12.contact_13.fullname
+split_bill_selected_one_contact: "1 / 19 people"
+split_bill_selected_one_contact_id: "1 / 19 orang"
+split_bill_selected_two_contact: "2 / 19 people"
+split_bill_input_amount_data_text: "79000"
+split_bill_input_amount_second_data_text: "10000000"
+split_bill_input_amount_max_data_text: "10000000000000"
+split_bill_input_amount_zero_data_text: "0"
+split_bill_input_amount_one_million: "10000000"
+split_bill_input_amount_five_million: "5,000,000"
+split_bill_me_amount_expect_text: "39,500"
+split_bill_input_amount_not_equal_data_text: "1001"
+split_bill_me_amount_not_equal_expect_text: "501"
+split_bill_not_equal_expect_text_1: "500"
+split_bill_input_amount_user_data_text: "85000"
+split_bill_adjust_amount_data_text_1: "40000"
+split_bill_adjust_me_amount_data_text: "45,000"
+split_bill_expected_contact_display_label_1: *Account_12.contact_13.fullname
+split_bill_second_amount_expected_display_label: "IDR 5,000,000"
+split_bill_second_amount_expected_label: "Rp 5.000.000"
+split_bill_add_note_textfield: "test"
+split_bill_countdown_text_amount: "31"
+split_bill_countdown_zero_amount: "0"
+split_bill_countdown_thirty_five_amount: "35"
+split_bill_note_max_text: "abcdefghijklmnopqrstuvwxyksonepxunt"
+split_bill_me_new_amount_text: "5000"
+split_bill_amount_request_text: "150000"
+split_bill_new_amount_expect_text: "29,000"
+split_bill_adjust_amount_anamika_data_text: "28000"
+split_bill_me_amount_after_first_adjust_expect_text: "25,500"
+split_bill_amount_after_first_adjust_expect_text: "25,500"
+split_bill_adjust_amount_alice_data_text: "22000"
+split_bill_me_amount_after_second_adjust_expect_text: "29,000"
+split_bill_amount_after_second_adjust_expect_text: "28,000"
+split_bill_note_special_chars: "#$%"
+split_bill_input_few_amount_data_text: "78"
+split_bill_adjust_incorrect_amount_data_text: "780"
+split_bill_auto_adjust_zero_amount_data_text: "0"
+split_bill_incorrect_amount_message_information_text: "Incorrect amount"
+split_bill_me_amount_expected_data_text: "26,334"
+split_bill_amount_expected_data_text: "26,333"
+split_bill_amount_expected_data_text_2: "26,333"
+split_bill_me_second_amount_expected_data_text: "39,500"
+split_bill_amount_expected_data_text_3: "39,500"
+split_bill_can_not_send_to_yourself_notification: "Oops... you can't send Split Bill request to yourself"
+split_bill_me_amount_divided_equally: "26,334"
+split_bill_recipients_amount_divided_equally: "26,333"
+split_bill_me_adjusted_amount_of_money: "25,335"
+split_bill_manual_adjusted_amount_of_money: "2833"
+split_bill_adjusted_amount_of_money: "25,335"
+split_bill_me_manual_adjusted_amount_of_money: "2833"
+split_bill_adjusted_amount_of_money_2: "28,330"
+split_bill_adjusted_amount_of_money_second: "22,340"
+split_bill_cashtag_1: *Account_12.cashtag
+split_bill_cashtag_2: *Account_12.contact_13.cashtag
+split_bill_****_recipient_user_email: *Account_12.contact_13.email
+split_bill_valid_phone_number: *Account_12.phone
+split_bill_valid_phone_number_non_****_user: *Account_12.devicecontact_1.phone
+split_bill_phone_number_starting_6221: "62211234567"
+split_bill_valid_cashtag_non_jenus_user: "$test"
+split_bill_error_message_invalid_email_address: "Please enter a valid $Cashtag, mobile number, or email"
+split_bill_invalid_input_manually: "012345678"
+split_bill_valid_cashtag: *Account_12.contact_13.cashtag
+split_bill_valid_phone_number_starting_with_+628: "+6285781147379"
+split_bill_valid_phone_number_starting_with_+6281: "+628112233111"
+split_bill_valid_email_address_2: *Account_12.contact_13.email
+split_bill_valid_user_email_non_****_user: "test@test.com"
+split_bill_cashtag_3: *Account_12.cashtag
+split_bill_user_email_1: *Account_12.contact_13.email
+split_bill_mobile_phone_1: *Account_12.contact_13.phone
+split_bill_first_user_phone_starting_with_08: "085781147378"
+split_bill_first_user_phone_starting_with_628: "6285781147378"
+split_bill_non_****_user_email: *Account_12.devicecontact_1.email
+split_bill_valid_phone_number_non_****_user_starting_021: "0215888113"
+split_bill_minimum_char_phone_number_starting_+6221: "+62211234567"
+split_bill_minimum_char_phone_number_starting_6221: "62211234567"
+split_bill_phone_number_starting_08_less_than_ten_digit: "0812345678"
+split_bill_minimum_char_phone_number_starting_+628: "+62812345678"
+split_bill_minimum_char_phone_number_starting_628: "62812345678"
+split_bill_contacts_label_3: *Account_12.contact_13.fullname
+
+split_bill_user_name_2: *Account_12.contact_13.fullname
+split_bill_user_cashtag_2: *Account_12.contact_13.cashtag
+
+#general
+requestor_name: *Account_12.fullname
+receiver_name: *Account_13.fullname
+requestor_email: *Account_12.email
+receiver_email: *Account_13.email
+user_phone_number: *Account_12.phonenumber
+requestor_cashtag: *Account_12.cashtag
+receiver_cashtag: *Account_13.cashtag
+cif_requestor: *Account_11.email#Account_11.password
+cif_receiver: *Account_13.email#Account_13.password
+cif_requestor_2: *Account_12.email#Account_12.password
+
+
+#save it - flexi saver
+flexi_saver_cif: **Account_12.email#Account_12.password
+#This user login has active balance without having flexi saver
+flexi_saver_cif_2: **Account_11.email#Account_11.password
+flexi_saver_savings_balance: "Savings balance"
+flexi_saver_savings_description: "Your 5% interest p.a. will be calculated daily and paid up monthly"
+flexi_saver_add_money_button_label: "Top Up"
+flexi_saver_withdrawal_button_label: "Withdraw"
+flexi_saver_savings_tab_label: "SAVINGS"
+flexi_saver_history_tab_label: "HISTORY"
+flexi_saver_id_currency_format: "Rp"
+flexi_saver_eng_currency_format: "IDR"
+flexi_saver_amount_id_20000: "20.000"
+flexi_saver_amount_eng_20000: "20,000"
+flexi_saver_input_amount_character: "abc"
+flexi_saver_zero_amount: "0"
+flexi_saver_slider_scale: "1"
+flexi_saver_middle_slider_scale: "0.5"
+flexi_saver_more_than_quarter_slider_scale: "0.75"
+flexi_saver_quarter_slider_scale: "0.25"
+
+save_it_flexi_saver_zero_balance: "0"
+save_it_flexi_saver_balance_less_than_required: "100"
+save_it_flexi_saver_balance_large_than_balance: "19000"
+save_it_flexi_saver_normal_amount: "50000"
+save_it_flexi_saver_top_up_amount: "50000"
+save_it_flexi_saver_withdraw_amount: "50000"
+save_it_flexi_saver_large_than_flexi_balance: "400000000"
+save_it_flexi_saver_less_than_min_allowed: "-1"
+save_it_flexi_saver_more_than_max_allowed: "100000000001"
+save_it_flexi_saver_cif_requestor: **Account_11.email#Account_11.password
+save_it_flexi_saver_cif_receiver: **Account_13.email#Account_12.password
+save_it_flexi_saver_cif_requestor_2: **Account_12.email#Account_12.password
+
+# save it maxi saver & dream saver
+save_it_zero_balance_for_all:
+save_it_all_have_balance:
+save_it_no_balance_for_flexi_dream_saver:
+save_it_no_balance_for_maxi_saver:
+save_it_no_balance_for_dream_maxi_saver: *Account_1.email#Account_1.password
+save_it_no_balance_for_flexi_maxi_saver:
+save_it_no_balance_for_dream_flexi_saver:
+save_it_cif_with_td: *Account_12.email#Account_12.password
+save_it_cif_without_td: **Account_10.email#Account_10.password
+save_it_cif_with_td_to_terminate: **Account_2.email#Account_2.password
+save_it_cif_no_saving: **Account_14.email#Account_14.password
+save_it_cif_balance_more_than_minimum_amount: *Account_14.email#Account_14.password
+save_it_cif_balance_less_than_minimum_amount: *Account_1.email#Account_1.password
+save_it_maxi_saver_select_maturity_month: "2"
+save_it_maxi_saver_maximum_maturity_tenor: "12"
+save_it_maturity_minimum_tenor: "1 month"
+save_it_maturity_maximum_tenor: "12 months"
+save_it_maturity_tenor: "2 months"
+save_it_zero_value: "0"
+save_it_principal_amount_1: "40000000"
+save_it_principal_amount_2: "70000000"
+save_it_principal_amount_3: "150000000"
+save_it_principal_amount_4: "100000000"
+save_it_principal_amount_5: "10000000"
+save_it_maximum_principal_amount: "1000000000"
+save_it_maximum_principal_amount_label: "1,000,000,000"
+save_it_minimum_principal_amount: "10000000"
+save_it_minimum_principal_amount_label: "10,000,000"
+save_it_input_principal_amount: "150000000"
+save_it_input_principal_amount_label: "150,000,000"
+save_it_input_more_than_maximum_principal: "1000000001"
+save_it_input_more_than_maximum_principal_label: "1,000,000,001"
+save_it_input_less_than_minimum_principal: "9999999"
+save_it_input_less_than_minimum_principal_label: "9,999,999"
+save_it_input_more_than_active_balance: "1000000001"
+save_it_input_more_than_active_balance_label: "1,000,000,001"
+save_it_principal_slider_scale: "0.5"
+save_it_principal_amount_slider: ""
+save_it_maximum_tenor: "12"
+save_it_annual_interest_rate_1: "6.00 %"
+save_it_annual_interest_rate_2: "6.25 %"
+save_it_annual_interest_rate_3: "6.25 %"
+save_it_cif_with_ds: *Account_18.email#Account_18.password
+
+save_it_confirmation_screen_maturity_term: "12 month term"
+save_it_confirmation_screen_principal: "IDR 40,000,000"
+save_it_confirmation_screen_interest: "6.25% p.a."
+save_it_confirmation_screen_maturity_option: "Return to Active Balance"
+save_it_checkbox_ticked: ""
+save_it_checkbox_unticked: ""
+save_it_principal_slider_multiplication: "1000"
+save_it_maxi_saver_creation_success_message: "You've successfully created a Maxi Saver"
+save_it_overview_maxi_saver_description: "Maximize your saving with interest up to 6.25% p.a."
+save_it_maturity_date_format: "%e %b %Y"
+save_it_maturity_aro_type_1: "Roll over principal"
+save_it_maturity_aro_type_2: "Roll over princial + interest"
+save_it_maturity_aro_type_3: "Return to active balance"
+save_it_maxi_saver_detail_handhold_info_1: "Having a second thought?"
+save_it_maxi_saver_detail_handhold_info_2: "In case of emergency"
+
+# dream saver
+save_it_dream_saver_empty: ""
+save_it_dream_saver_name_default: "Write your dream here"
+save_it_dream_saver_name_input_space_only: "        "
+save_it_dream_saver_name_input_between_spaces: "    My Dream Saver    "
+save_it_dream_saver_name_input_between_spaces_result: "My Dream Saver"
+save_it_dream_saver_name_input_over: "1234567890abcdefghijklmnopqrstuvwxyz"
+save_it_dream_saver_name_input_over_result: "1234567890abcdefghijklmnopqrst"
+save_it_dream_saver_name_input_1: "Holiday"
+save_it_dream_saver_name_input_2: "$$ Expensive $$"
+save_it_dream_saver_name_field_blank_notification: "This field cannot be blank"
+save_it_dream_saver_target_amount_input: "500000000"
+save_it_dream_saver_target_amount_input_bottom_boundary: "100000"
+save_it_dream_saver_target_amount_input_top_boundary: "1000000000"
+save_it_dream_saver_target_amount_input_below_boundary: "99999"
+save_it_dream_saver_target_amount_input_above_boundary: "1000000001"
+save_it_dream_saver_target_amount_minimum_notification: "Minimum amount is IDR 100,000"
+save_it_dream_saver_target_amount_maximum_notification: "Maximum amount is IDR 1,000,000,000"
+save_it_dream_saver_name_1: **Account_18.DreamSaver_active.Name
+save_it_cif_without_ds: *Account_12.email#Account_12.password
+save_it_dream_saver_create_name: "Buy Lamborgini"
+save_it_dream_saver_create_amount: "1000000"
+save_it_dream_saver_interest_history_label: "Monthly Interest"
+save_it_dream_saver_tax_history_label: "Tax Interest"
+
+# Dashboard - Wealth Widget
+wealth_widget_total_balance_zero_balance: "IDR 0"
+
+#PayMe
+pay_me_cif_receiver: *Account_1.email#Account_1.password
+pay_me_****_recipient_user_email: *Account_1.email
+pay_me_valid_cashtag: *Account_1.cashtag
+pay_me_fullname: *Account_1.fullname
+pay_me_phone_number_account_1: *Account_1.phone
+pay_me_cif: *Account_12.username#Account_12.password
+pay_me_****_sender_user_email: *Account_12.email
+pay_me_requestor_name: *Account_12.fullname
+pay_me_requestor_phone_number: *Account_12.phone
+pay_me_valid_****_phone_number: *Account_5.phone
+pay_me_name_single_search_contact: *Account_5.fullname
+pay_me_cashtag_1: *Account_5.cashtag
+pay_me_selected_contacts: *Account_5.fullname
+pay_me_user_email: "test@test.com"
+pay_me_invalid_email_address: "test@@test.com"
+pay_me_invalid_cashtag: "$12"
+pay_me_request_amount: "Requesting IDR 100,000 from you"
+pay_me_invalid_input_manually: "012345678"
+pay_me_valid_non_****_user: *Account_12.devicecontact_1.email
+pay_me_valid_phone_number: "+6281281147378"
+pay_me_valid_non_****_phone_number: "085648902447"
+pay_me_valid_non_****_phone_number_2: "6285648902447"
+pay_me_valid_phone_number_non_****_user: "+62215910113"
+pay_me_valid_phone_number_non_****_user_2: "0215888113"
+pay_me_minimum_char_phone_number_starting_08: "0812345678"
+pay_me_maksimum_char_phone_number_starting_08: "0812345678123"
+pay_me_minimum_char_phone_number_starting_021: "0211234567"
+pay_me_maksimum_char_phone_number_starting_021: "02112345678"
+pay_me_minimum_char_phone_number_starting_628: "62812345678"
+pay_me_maksimum_char_phone_number_starting_628: "62812345678912"
+pay_me_minimum_char_phone_number_starting_6221: "62211234567"
+pay_me_maksimum_char_phone_number_starting_6221: "622112345678"
+pay_me_minimum_char_phone_number_starting_+628: "+62812345678"
+pay_me_maksimum_char_phone_number_starting_+628: "+62812345678912"
+pay_me_minimum_char_phone_number_starting_+6221: "+62211234567"
+pay_me_maksimum_char_phone_number_starting_+6221: "+622112345678"
+pay_me_phone_number_starting_08_less_than_ten_digit: "081234567"
+pay_me_phone_number_starting_021_less_than_ten_digit: "021123456"
+pay_me_phone_number_starting_08_more_than_thirteen_digit: "08123456789012"
+pay_me_phone_number_starting_021_more_than_eleven_digit: "02112345678"
+pay_me_phone_number_starting_628_less_than_eleven_digit: "6281234567"
+pay_me_phone_number_starting_6221_less_than_eleven_digit: "6221123456"
+pay_me_phone_number_starting_628_more_than_fourteen_digit: "6281234567891234"
+pay_me_phone_number_starting_6221_more_than_twelve_digit: "6221123456789123"
+pay_me_phone_number_starting_+628_less_than_twelve_digit: "+6281234567"
+pay_me_phone_number_starting_+6221_less_than_twelve_digit: "+6221123456"
+pay_me_phone_number_starting_+628_more_than_fifthteen_digit: "+6281234567891234"
+pay_me_phone_number_starting_+6221_more_than_thirteen_digit: "+6221123456789123"
+pay_me_valid_cashtag_non_jenus_user: "$test"
+pay_me_amount_max_number: "123456789123"
+pay_me_amount_more_than_max_number: "1234567891234"
+pay_me_amount: "100000"
+pay_me_expected_amount: "IDR 100,000"
+pay_me_note: "abc"
+pay_me_note_max_text: "abcdefghijklmnopqrstuvwxyksonepxunt"
+pay_me_note_more_than_max_number: "123456789012345678901234567890123456"
+pay_me_note_max_number: "12345678901234567890123456789012345"
+pay_me_note_special_chars: "#$%"
+pay_me_note_number: "32"
+pay_me_zero_note_number: "0"
+pay_me_max_note_number: "35"
+pay_me_email_longpress_copy: "chaumaihoa2345"
+pay_me_error_message_sending_payment: "Oops.. you can't send money request to yourself"
+pay_me_error_message_invalid_email_address: "Please enter a valid $Cashtag, mobile number, or email"
+pay_me_error_message_valid_cashtag_non_****_user: "Oops... $Cashtag can't be found"
+pay_me_ok_got_tutorial_text: "OK, GOT IT!"
+pay_me_default_allocate_money_text: "Active Balance"
+pay_me_notification_number_decline: "0"
+pay_me_notification_number_new: "1"
+pay_me_expected_amount_id: "Rp 100.000"
+pay_me_success_sent_notification_new: "Your request has been sent"
+
+#global variable #Fixco
+card_center_active_card_correct_password: **Account_1.Password
+
+#Username & password #Fixco
+card_center_active_card_for_ui_transaction: *Account_1.Email#Account_1.Password
+card_center_active_card_for_change_status: **Account_2.Email#Account_2.Password
+card_center_block_card_for_ui_transaction: **Account_7.Email#Account_7.Password
+card_center_block_card_for_change_status: **Account_8.Email#Account_8.Password
+card_center_card_not_activated_for_ui_transaction: *Account_19.active_balance
+
+card_center_active_x_card_for_ui_transaction: *Account_16.Email#Account_16.Password
+card_center_processing_card: *Account_17.Email#Account_17.Password
+card_center_inactive_account: *Account_19.Email#Account_19.Password
+card_center_permanent_block_account: *Account_9.Email#Account_9.Password
+card_center_active_all_card_for_ui_transaction: *Account_13.Email#Account_13.Password
+card_center_active_card_with_inactive_m_card: *Account_1.Email#Account_1.Password
+card_center_active_all_card_with_zero_balance: *Account_11.Email#Account_11.Password
+#temprarily block #Fixco
+card_center_temporarily_blocked: "Temporarily Blocked"
+card_center_temporarily_block_e_card_detail_status: "Your e-Card has been temporarily blocked"
+
+#unblock card #Fixco
+card_center_unblock_m_card: "Your m-Card has been unblocked"
+card_center_unblock_e_card: "Your e-Card has been unblocked"
+card_center_unblock_x_card: "Your x-Card has been unblocked"
+
+card_center_card_change_limit_push_message: "Your card limit has been changed"
+card_center_card_change_limit_error_message: "Your card limit won't change"
+
+#show balance #Fixco
+card_center_balance_e_card: *Account_1.Active_balance
+card_center_balance_e_card_temporarily_blocked: **Account_7.Active_balance
+card_center_first_x_card: *Account_16.first_x_card_name
+card_center_second_x_card: *Account_16.second_x_card_name
+card_center_third_x_card: *Account_16.third_x_card_name
+card_center_e_card_type: "Virtual Card"
+
+#save_it
+save_it_maxi_saver_with_cashout: **Account12.MaxiSaver_return_to_active_balance
+save_it_maxi_saver_with_aro_p: **Account_12.save_it_maxi_saver_with_aro_p
+save_it_maxi_saver_with_aro_p_i: **Account_12.save_it_maxi_saver_with_aro_p_i
+save_it_maxi_saver_with_aro_p_i_max_setting: **Account_12.save_it_maxi_saver_with_aro_p_i_max_setting
+save_it_maxi_saver_change_aro_success: "Successfully"
+save_it_maxi_saver_narrative_confirmation_pop_up: ""
+
+save_it_cif_with_nine_active_ds: *Account_18.email#Account_18.password
+save_it_dream_saver_send_money_label: **Account_18.sender_name
+save_it_dream_saver_zero_target_amount: "0"
+save_it_dream_saver_under_one_thousand_target_amount: "99,999"
+save_it_dream_saver_one_thousand_target_amount: "100,000"
+save_it_dream_saver_one_bilion_target_amount: "1,000,000,000"
+save_it_dream_saver_above_target_amount: "1,000,000,001"
+
+save_it_dream_saver_min_target_amount_hint: "The minimum target amount is IDR100,000"
+save_it_dream_saver_max_target_amount_hint: "The maximum target amount is IDR1,000,000,000"
